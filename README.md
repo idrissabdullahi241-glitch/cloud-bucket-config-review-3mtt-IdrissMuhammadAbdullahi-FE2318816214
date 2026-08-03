@@ -1,0 +1,2 @@
+# cloud-bucket-config-review-3mtt-IdrissMuhammadAbdullahi-FE2318816214
+Cloud Bucket Configuration Review is a cloud security project that evaluates storage bucket configurations across AWS, Google Cloud, and Azure environments. The project focuses on identifying misconfigurations, insecure permissions, public exposure risks, encryption weaknesses, and monitoring gaps while recommending industry-standard security.
