@@ -1,0 +1,9 @@
+===== Cloud Bucket Configuration Review =====
+
+Public Access Blocked: FAIL
+Encryption Enabled: FAIL
+Versioning Enabled: PASS
+Logging Enabled: FAIL
+Lifecycle Policy Enabled: PASS
+
+Overall Risk Level: HIGH
