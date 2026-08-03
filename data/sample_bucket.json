@@ -1,0 +1,8 @@
+{
+    "BucketName": "research-storage",
+    "PublicAccess": true,
+    "Encryption": false,
+    "Versioning": true,
+    "Logging": false,
+    "LifecyclePolicy": true
+}
